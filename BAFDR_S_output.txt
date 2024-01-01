@@ -1,0 +1,14 @@
+Blackbody and Atmosphere:
+Radiance=2.5967e+15  Flux=1.7335e+09
+Detector Section:
+Isig=2.2217e-10  Jsig=5.5542e-05
+Idark=2.7032e-12  Jdark=6.7581e-07
+TBLIP=1.4810e+02  MaxBLIP=1.4987e+02
+ROIC Section:
+Well Cap e- = 9.99e+06  Well Fill % = 42.16
+ReadNoise e- = 572.31  Limiting Noise = SHOT
+MaxSNR = 69.75  db Dynamic Range = 84.73  SNR = 65.83
+Radiometric Section:
+NEC=2.36e+03  NEI=2.4618e+11
+DSTAR=5.30e+11  NEP=4.8709e-14
+NETD=2.53e-02

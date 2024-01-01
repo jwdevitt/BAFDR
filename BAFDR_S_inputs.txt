@@ -1,0 +1,20 @@
+BB - Plot Units (0 = skip, 1 = log, 2 = linear): 1
+BB - Atmosphere number: 2
+BB - Emittance: 0.9
+BB - Temperature (K): 300.0
+BB - Lower Wavelenght (um): 3.0
+BB - Upper Wavelength (um): 5.0
+Flux - Focal Lenght (m): 0.4
+Flux - Aperture (m): 0.2
+Flux - Detector pitch (um): 20
+Flux - Optical Transmission (%): 0.85
+Detector - lower wavelength (um): 2
+Detector - cutoff wavelenght (um): 6.0
+Detector - ScaleFactor (%): 1
+Detector - QE (%): 0.8
+Detector - Operating Temerature (K): 120
+ROIC - amp noise Vn_Amp_Ampin (V):1e-4
+ROIC - amp voltage Vmax(V): 2.0
+ROIC - Res_ADC (bits): 14
+ROIC - Integration Capacitor Ciff (fF): 8000
+ROIC - Integration time Tint(sec):3e-3
