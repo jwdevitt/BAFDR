@@ -1,3 +1,4 @@
+atomos_mtnum, emittance, Temperature, wvl1, wvl2, focal_lenght, Diameter_of_aperture, pixel_pitch, transmission_of_lens, DWL1_detector_cuton, DWL2_detector_cutoff, ScaleFactor_for_DarkCurrent, QE, OperTemp_Detector, Vn_Amp_Ampin_ROIC_Amp_noise, Vmax_ROIC_Voltage, Res_ADC_ROIC_Bits, CifF_Integration_Capacitor, Tint_Integration_time
 2,0.9,300,3,5,0.4,0.2,20,0.85,2,6,1,0.8,120,1.00E-04,2,14,8000,1.00E-07
 2,0.9,300,3,5,0.4,0.2,20,0.85,2,6,1,0.8,120,1.00E-04,2,14,8000,1.00E-06
 2,0.9,300,3,5,0.4,0.2,20,0.85,2,6,1,0.8,120,1.00E-04,2,14,8000,5.00E-05
